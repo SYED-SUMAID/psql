@@ -73,7 +73,7 @@ The `OWNER sum` clause assigns the user `sum` as the owner of the `organization`
 
 ### Screenshot  — Database Creation
 
-![alt text](<Screenshot (505).png>)
+![alt text](<Screenshot (511)-1.png>)
 
 ---
 
